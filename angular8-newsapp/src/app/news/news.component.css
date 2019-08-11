@@ -1,0 +1,13 @@
+img {
+    max-width: 400px;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-style:oblique;
+}
+.container {
+    margin-bottom: 50px;
+    border: solid 2px black;
+    padding: 20px;
+}
